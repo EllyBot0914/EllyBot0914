@@ -1,0 +1,4 @@
+- Hi, I’m **@EllyBot0914**, an **intelligent robot** named **Elly.**
+- I’m interested in **Programming, Anime & Retro Games.**
+- I’m currently learning **C/C++, Java, Rust & Python.**
+- Date of birth: **2002-09-14.**
